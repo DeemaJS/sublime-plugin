@@ -6,4 +6,4 @@ Second install Emmet
 
 Third add linter (jshint)
 
-Add theme
+Add theme (Soda & Cobalt2)
