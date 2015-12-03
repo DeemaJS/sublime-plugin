@@ -7,3 +7,5 @@ Second install Emmet
 Third add linter (jshint)
 
 Add theme (Soda & Cobalt2)
+
+Install BracketHighlither
