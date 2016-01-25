@@ -8,4 +8,7 @@
 * Add Sidebar Enhancements
 * WebInspector
 * Git and gitGutter
-* 
+* SublimeCodeIntel
+* AutoFileName
+
+
