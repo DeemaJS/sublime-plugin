@@ -7,3 +7,5 @@
 * Install BracketHighlither
 * Add Sidebar Enhancements
 * WebInspector
+* Git and gitGutter
+* 
