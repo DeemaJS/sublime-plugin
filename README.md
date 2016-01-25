@@ -1,8 +1,7 @@
 # sublime-plugin
 
-First install package control
-
-Second install Emmet
+1. First install package control
+2. Second install Emmet
 
 Third add linter (jshint)
 
