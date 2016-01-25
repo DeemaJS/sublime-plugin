@@ -10,5 +10,7 @@
 * Git and gitGutter
 * SublimeCodeIntel
 * AutoFileName
+* ColorPicker
+
 
 
